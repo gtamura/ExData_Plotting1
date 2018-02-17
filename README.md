@@ -1,4 +1,4 @@
-## This if the plotting course project 
+## This is the plotting course project 
 
 * <b>Description</b>: Measurements of electric power consumption in
 one household with a one-minute sampling rate over a period of almost
